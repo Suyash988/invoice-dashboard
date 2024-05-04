@@ -1,5 +1,5 @@
-## Next.js App Router Course - Starter
+## Next.js Invoice Dashboard
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+This is a Next.js Web App for the managing of the invoices and the status of the payments.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+
